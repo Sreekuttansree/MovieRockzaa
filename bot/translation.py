@@ -5,12 +5,9 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+<i>നീ ഏതാ മോനുസേ എന്നെ MovieRockz ഗ്രൂപ്പിൽ മാത്രമേ ഉപയോഗിക്കാൻ പറ്റു
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
-
-For More Details Click Help Button Below..
-@CrazyBotsz
+@sulthanmr ആണ് എന്റെ മുതലാളി.😁
 </i>"""    
     
     HELP_TEXT = """
